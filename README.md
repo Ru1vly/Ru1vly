@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Ru1vly
 
-<!--
-**Ru1vly/Ru1vly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm passionate about coding, learning new technologies, and collaborating on open source projects.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I enjoy working on challenging projects and solving problems with code.
+- 🌱 Currently learning and exploring new stacks and tools.
+- 🤝 Open to collaboration and always eager to contribute to interesting repos.
+- 📫 How to reach me:  
+  - GitHub: [Ru1vly](https://github.com/Ru1vly)
+
+## 🛠️ Technologies & Tools
+
+- Languages: Python, JavaScript, TypeScript, [add your favorites!]
+- Frameworks/Libraries: React, Node.js, [add others you use]
+- Tools: Git, Docker, VSCode, [customize as needed]
+
+## 📈 GitHub Stats
+
+![Ru1vly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ru1vly&show_icons=true&theme=default)
+
+## 🌟 Featured Projects
+
+- [Project Name](https://github.com/Ru1vly/project-name): Short project description.
+- [Another Project](https://github.com/Ru1vly/another-project): Short project description.
+
+---
+
+Thanks for visiting my profile!  
+Feel free to connect, follow, or reach out if you'd like to collaborate.
