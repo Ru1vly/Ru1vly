@@ -35,12 +35,12 @@
 
   ## 🌀 Proffessional Experience
   
-  ***This Section is Empty For Now. Please get in touch if you want to change that***
+ * *This section is this empty for now. If you think you need first class coding capabilities, please contact*
   ---
 
-  ## ✨ Öne Çıkan Projelerim
+  ## ✨ My outstanding projects 
 
-  Aşağıda üzerinde çalışmaktan gurur duyduğum bazı projeler yer alıyor. Daha fazlası için repolarımı inceleyebilirsiniz!
+  Below are some projects I'm proud to work on. You can review my repolar for more! 
 
   ### 📌 [Proje Adı 1]
   * **Açıklama:** [Projenin kısa bir açıklaması, amacı ve kullanılan teknolojiler.]
@@ -66,7 +66,7 @@
 
   ## 📫 Bana Ulaşın
 
-  Yeni fırsatlar ve işbirlikleri için her zaman açığım. Benimle iletişime geçmekten çekinmeyin!
+  I'm always open to new opportunities and cooperation. Feel free to contact me! 
 
   <p align="center">
     <a href="mailto:emailadresiniz@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
