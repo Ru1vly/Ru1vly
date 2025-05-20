@@ -37,40 +37,28 @@
   Witness these strategic endeavors, direct manifestations of my formidable capabilities. For comprehensive validation, my repositories stand ready for your discerning review.
 
   ### [Eidos](www.github.com/Ru1vly/Eidos)
-  * **Açıklama:** [Projenin kısa bir açıklaması, amacı ve kullanılan teknolojiler.]
-  * **Katkılarım:** [Projeye özel katkılarınızdan bahsedin.]
-  * **Link:** [GitHub Repo Linki]
-
-  ### 📌 [Proje Adı 2]
-  * **Açıklama:** [Projenin kısa bir açıklaması, amacı ve kullanılan teknolojiler.]
-  * **Katkılarım:** [Projeye özel katkılarınızdan bahsedin.]
-  * **Link:** [GitHub Repo Linki]
-
-  *(Bu bölümü en iyi 2-3 projenizle doldurabilirsiniz. Daha sonra bu repoları profilinize sabitleyebilirsiniz.)*
-
+  * **Description:** The AI Companion for being introduction for begginners of linux and next gear for the experienced Linux users.
+  * **Contrubutions:** The Founder and Developer.
   ---
 
-  ## 🏆 Başarılarım ve Sertifikalarım
+  ## Achievements and Certificates
 
-  * **[Ödül/Sertifika Adı 1]** - [Veren Kurum/Organizasyon] - [Alınan Tarih]
-  * **[Ödül/Sertifika Adı 2]** - [Veren Kurum/Organizasyon] - [Alınan Tarih]
-  * [Diğer önemli başarılarınız veya tanınmalarınız.]
-
+  * **[JavaScript Course Certificate](https://www.sololearn.com/certificates/CT-84CANEON)** - Sololearn - 03 August 2020
+  
   ---
 
-  ## 📫 Bana Ulaşın
+  ## Contact Me
 
-  I'm always open to new opportunities and cooperation. Feel free to contact me! 
+  My strategic acumen is perpetually primed for opportunities and collaborations demanding formidable expertise. Should your critical challenges necessitate the decisive application of unmatched perspicacity and sheer indefatigability, I invite you to initiate direct contact. 
 
   <p align="center">
-    <a href="mailto:emailadresiniz@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://www.linkedin.com/in/linkedinprofiliniz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://twitter.com/kullaniciadiniz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+    <a href="mailto:ru1vly@protonmail.com"><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail"/></a>
+    <a href="https://www.linkedin.com/in/kerem-yigit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   </p>
 
 </div>
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Ru1vly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ru1vly&show_icons=true&theme=default)
 
