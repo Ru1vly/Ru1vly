@@ -25,11 +25,6 @@ _)      \.___.,|     .'                                    |             '-´ . 
   </p>
 
   ---
-
-  ## About Me
-  * My efforts are decisively concentrated on Open Source Development and Community-driven Projects, domains where my unmatched perspicacity truly asserts itself. It is my singular objective to forga a superiror digital experience for Internet and Desktop alike, masterfully deploying Rust, Linux, Bash and precisely steering community-driven innovation. Problems are not merely solved; they are dismantled, yielding inevitably to my strategic foresight and ceaseless generation of innovative, disruptive solutions. 
-  ---
-
   ## Tools And Skills
 
   These are the formidable technologies and tools I deploy with unparalleled precision, each an extension of my operational mastery.:
@@ -46,22 +41,6 @@ _)      \.___.,|     .'                                    |             '-´ . 
   
  * *This section is currnetly reserved, awaiting content that reflects the caliber of my strategic endeavors. Should your challanges demand first-class coding capabilities than initiate contact to engage a truly formidable force*
   ---
-
-  ## My outstanding projects 
-
-  Witness these strategic endeavors, direct manifestations of my formidable capabilities. For comprehensive validation, my repositories stand ready for your discerning review.
-
-  ### [Eidos](www.github.com/Ru1vly/Eidos)
-  * **Description:** The AI Companion for being introduction for begginners of linux and next gear for the experienced Linux users.
-  * **Contrubutions:** The Founder and Developer.
-  ---
-
-  ## Achievements and Certificates
-
-  * **[JavaScript Course Certificate](https://www.sololearn.com/certificates/CT-84CANEON)** - Sololearn - 03 August 2020
-  
-  ---
-
   ## Contact Me
 
   My strategic acumen is perpetually primed for opportunities and collaborations demanding formidable expertise. Should your critical challenges necessitate the decisive application of unmatched perspicacity and sheer indefatigability, I invite you to initiate direct contact. 
