@@ -52,7 +52,7 @@
   My strategic acumen is perpetually primed for opportunities and collaborations demanding formidable expertise. Should your critical challenges necessitate the decisive application of unmatched perspicacity and sheer indefatigability, I invite you to initiate direct contact. 
 
   <p align="center">
-    <a href="mailto:ru1vly@protonmail.com"><img src="https://img.shields.io/badge/LinkedIn-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail"/></a>
+    <a href="mailto:ru1vly@protonmail.com"><img src="https://img.shields.io/badge/Proton Mail-6D4AFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Protonmail"/></a>
     <a href="https://www.linkedin.com/in/kerem-yigit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   </p>
 
