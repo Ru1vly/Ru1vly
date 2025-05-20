@@ -1,29 +1,23 @@
-<div align="center">
+<div align="left">
 
-<pre align="center">
-  /\_/\
- ( o.o )
-  > ^ <
+<pre align="left">
 </pre>
 
-  # Hello there 👋, It is me, Ru1vly.
+  # This is the domain of the Ru1vly
 
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-    I am passionate about GNU/Linux and Open Source Development
+  <p align="left">
+    My unwavering commitment to GNU/Linux and Open Source Development transcends mere passion; it is the strategic imperative that fuels my relentless pursuit of perfection and solidifies my standing as a feared opponent in this vital realm.
   </p>
 
   ---
 
-  ## 🚀 About Me
-
-  If I'm going to talk about myself briefly, I've been working in Linux development for 7 years. I'm particularly focused on Open Source Development and Community driven Projects. My goal is to being a part of creating a better experience of Internet and Desktop using with Rust, Linux, bash and basically what is driven by the community. I like to solve problems and come up with innovative solutions. 
-
+  ## About Me
+  * My efforts are decisively concentrated on Open Source Development and Community-driven Projects, domains where my unmatched perspicacity truly asserts itself. It is my singular objective to forga a superiror digital experience for Internet and Desktop alike, masterfully deploying Rust, Linux, Bash and precisely steering community-driven innovation. Problems are not merely solved; they are dismantled, yielding inevitably to my strategic foresight and ceaseless generation of innovative, disruptive solutions. 
   ---
 
-  ## 🛠️ Tools And Skills
+  ## Tools And Skills
 
-  Aşağıda yetkin olduğum bazı teknolojiler ve araçlar bulunmaktadır:
+  These are the formidable technologies and tools I deploy with unparalleled precision, each an extension of my operational mastery.:
 
   * **Programming Languages:** Rust, C++, Java, Python, Javascript, Typescript
   * **Frameworks and Libraries:** Next.js, NextUI, Node.js, Django, Cargo
@@ -33,16 +27,16 @@
 
   ---
 
-  ## 🌀 Proffessional Experience
+  ## Proffessional Experience
   
- * *This section is this empty for now. If you think you need first class coding capabilities, please contact*
+ * *This section is currnetly reserved, awaiting content that reflects the caliber of my strategic endeavors. Should your challanges demand first-class coding capabilities than initiate contact to engage a truly formidable force*
   ---
 
-  ## ✨ My outstanding projects 
+  ## My outstanding projects 
 
-  Below are some projects I'm proud to work on. You can review my repolar for more! 
+  Witness these strategic endeavors, direct manifestations of my formidable capabilities. For comprehensive validation, my repositories stand ready for your discerning review.
 
-  ### 📌 [Proje Adı 1]
+  ### [Eidos](www.github.com/Ru1vly/Eidos)
   * **Açıklama:** [Projenin kısa bir açıklaması, amacı ve kullanılan teknolojiler.]
   * **Katkılarım:** [Projeye özel katkılarınızdan bahsedin.]
   * **Link:** [GitHub Repo Linki]
