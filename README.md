@@ -17,13 +17,6 @@ _)      \.___.,|     .'                                    |             '-´ . 
 \____   )MMMMMM|   .'       o                        '                           .                o
      `-'       `--' hjm                       o     .                                            +
 </pre>
-
-  # This is the domain of the Ru1vly
-
-  <p align="left">
-    My unwavering commitment to GNU/Linux and Open Source Development transcends mere passion; it is the strategic imperative that fuels my relentless pursuit of perfection and solidifies my standing as a feared opponent in this vital realm.
-  </p>
-
   ---
   ## Tools And Skills
 
@@ -34,12 +27,12 @@ _)      \.___.,|     .'                                    |             '-´ . 
   * **Databases:** Diesel, MySql, MsSql
   * **Tools:** Git, Docker
   * **Other:** Crysis Management, Operational Perfectionalism, Analytical Skills, Sales, Strategical Communication, Team Worker, Fast Learner
-
+ 
   ---
+## GitHub Stats
 
-  ## Proffessional Experience
-  
- * *This section is currnetly reserved, awaiting content that reflects the caliber of my strategic endeavors. Should your challanges demand first-class coding capabilities than initiate contact to engage a truly formidable force*
+![Ru1vly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ru1vly&show_icons=true&theme=default)
+
   ---
   ## Contact Me
 
@@ -51,8 +44,3 @@ _)      \.___.,|     .'                                    |             '-´ . 
   </p>
 
 </div>
-
-## GitHub Stats
-
-![Ru1vly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ru1vly&show_icons=true&theme=default)
-
