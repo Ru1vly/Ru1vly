@@ -1,21 +1,21 @@
 <div align="left">
   
-<pre align="left">         _nnnn_                      
-        dGGGGMMb     ,""""""""""""""".
-       @p~qp~~qMb    | sudo rm -rf / |
-       M|@||@) M|   _;...............'
-       @,----.JM| -'
-      JS^\__/  qKL
-     dZP        qKRb
-    dZP          qKKb
-   fZP            SMMb
-   HZM            MMMM
-   FqM            MMMM
- __| ".        |\dS"qML
- |    `.       | `' \Zq
-_)      \.___.,|     .'
-\____   )MMMMMM|   .'
-     `-'       `--' hjm
+<pre align="left">         _nnnn_                                   .                         o      +                      *    .    '
+        dGGGGMMb     ,""""""""""""""".                           '   '                       '                        
+       @p~qp~~qMb    | sudo rm -rf / |                            '         *         +                               
+       M|@||@) M|   _;...............'           *             .         .                '                           
+       @,----.JM| -'               o     o'        +                       .'.                      
+      JS^\__/  qKL     +                    *                 +                           '       
+     dZP        qKRb  +                                     | +       .                            
+    dZP          qKKb     .                             .  . -o-                                    +
+   fZP            SMMb                  .                .  ~~ |     o            .:'               o 
+   HZM            MMMM                    o                     o             _.::'                   
+   FqM            MMMM           . *                .                     .  (_.'                  +  
+ __| ".        |\dS"qML          '                         |  .          .-.   |                       
+ |    `.       | `' \Zq       o         .                - o -            ) )- o -      .              
+_)      \.___.,|     .'                                    |             '-´ . |                       
+\____   )MMMMMM|   .'       o                        '                           .                o  
+     `-'       `--' hjm                       o     .                                            +     
 </pre>
 
   # This is the domain of the Ru1vly
