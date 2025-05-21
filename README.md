@@ -20,18 +20,29 @@ _)      \.___.,|     .'                                    |             '-´ . 
   ---
   ## Tools And Skills
 
-  These are the formidable technologies and tools I deploy with unparalleled precision, each an extension of my operational mastery.:
-
-  * **Programming Languages:** Rust, C++, Java, Python, Javascript, Typescript
-  * **Frameworks and Libraries:** Next.js, NextUI, Node.js, Django, Cargo
-  * **Databases:** Diesel, MySql, MsSql
-  * **Tools:** Git, Docker
-  * **Other:** Crysis Management, Operational Perfectionalism, Analytical Skills, Sales, Strategical Communication, Team Worker, Fast Learner
- 
+  <p align="center">
+    <a><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></a>
+    <a><img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/></a>
+    <a><img src="https://img.shields.io/badge/Java-f46a54?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
+    <a><img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+    <a><img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/></a>
+    <a><img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+    <a><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
+    <a><img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=nextui&logoColor=white" alt="NextUI"/></a>
+    <a><img src="https://img.shields.io/badge/Node.Js-5fa04e?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
+    <a><img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
+    <a><img src="https://img.shields.io/badge/Cargo-024eff?style=for-the-badge&logo=rustdesk&logoColor=white" alt="Cargo"/></a>
+    <a><img src="https://img.shields.io/badge/Diesel-ea7100?style=for-the-badge&logo=diesel&logoColor=white" alt="Diesel"/></a>
+    <a><img src="https://img.shields.io/badge/MySql-4479a1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto" alt="MySql"/></a>
+    <a><img src="https://img.shields.io/badge/SQLlite-003b57?style=for-the-badge&logo=sqllite&logoColor=white" alt="SQLlite"/></a>
+    <a><img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+    <a><img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  </p>
+  
   ---
 ## GitHub Stats
 
-![Ru1vly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ru1vly&show_icons=true&theme=default)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=Ru1vly&show_icons=true&theme=default)
 
   ---
   ## Contact Me
@@ -39,7 +50,7 @@ _)      \.___.,|     .'                                    |             '-´ . 
   My strategic acumen is perpetually primed for opportunities and collaborations demanding formidable expertise. Should your critical challenges necessitate the decisive application of unmatched perspicacity and sheer indefatigability, I invite you to initiate direct contact. 
 
   <p align="center">
-    <a href="mailto:ru1vly@protonmail.com"><img src="https://img.shields.io/badge/Proton Mail-6D4AFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Protonmail"/></a>
+    <a href="mailto:ru1vly@protonmail.com"><img src="https://img.shields.io/badge/Proton Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail"/></a>
     <a href="https://www.linkedin.com/in/kerem-yigit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   </p>
 
