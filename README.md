@@ -8,7 +8,7 @@
       JS^\__/  qKL     +                    *                 +                           '
      dZP        qKRb  +                                     | +       .                            
     dZP          qKKb     .                             .  . -o-                                    +
-   fZP            SMMb                  .                .  ~~ |     o            .:'               o
+   RX7            SMMb                  .                .  ~~ |     o            .:'               o
    HZM            MMMM                    o                     o             _.::'
    FqM            MMMM           . *                .                     .  (_.'                  +
  __| ".        |\dS"qML          '                         |  .          .-.   |
@@ -43,3 +43,7 @@ _)      \.___.,|     .'                                    |             '-´ . 
 ## GitHub Stats
 
   ![Stats](https://github-readme-stats.vercel.app/api?username=Ru1vly&show_icons=true&theme=default)
+![yılan (dark)](https://raw.githubusercontent.com/Ru1vly/Ru1vly/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+![progress snake](https://raw.githubusercontent.com/Ru1vly/Ru1vly/output/github-contribution-grid-snake-progress.svg)
+
