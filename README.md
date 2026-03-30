@@ -3,9 +3,9 @@
 <pre align="left">
    ______________________________
  / \                             \.
-|   |     I dont know what       |.
- \_ |       will i am gonna      |.
-    |       write in here        |.
+|   |     I don't know           |.
+ \_ |       what to write        |.
+    |       in here              |.
     |                            |.
     |                            |.
     |                            |.
