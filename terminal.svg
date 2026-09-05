@@ -36,7 +36,7 @@
   <!-- Terminal Content -->
   <g class="text" xml:space="preserve">
     <text x="25" y="65"><tspan class="prompt">ru1vly:~$</tspan><tspan class="cmd"> whoami</tspan></text>
-    <text x="25" y="88" class="out">kerem — systems, rust, c++</text>
+    <text x="25" y="88" class="out">kerem — typescript, rust, python, java</text>
 
     <text x="25" y="125"><tspan class="prompt">ru1vly:~$</tspan><tspan class="cmd"> cat status.txt</tspan></text>
     <text x="25" y="148" class="out">- code compiles (eventually)</text>
