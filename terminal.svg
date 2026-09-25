@@ -42,7 +42,8 @@
     <text x="25" y="148" class="out">- code compiles (eventually)</text>
     <text x="25" y="168" class="out">- works on my machine</text>
     <text x="25" y="188" class="out">- still don't know what to put in this readme</text>
-
+    <text x="25" y="188" class="out">- cool vibrations </text>
+    <text x="25" y="188" class="out">- use aviary, it's insane</text>
     <text x="25" y="228"><tspan class="prompt">ru1vly:~$ </tspan></text>
   </g>
 
