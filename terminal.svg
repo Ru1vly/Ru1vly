@@ -63,6 +63,14 @@
       <animate id="a3" attributeName="d" begin="a2.end" dur="4s" fill="remove"
         values="m110,228 h0 ; m110,228 h450 ; m110,228 h450 ; m110,228 h0" keyTimes="0;0.5;0.8;1" />
     </path>
+    <path id="p4" d="m110,228 h0">
+      <animate id="a4" attributeName="d" begin="a3.end" dur="4s" fill="remove"
+        values="m110,228 h0 ; m110,228 h450 ; m110,228 h450 ; m110,228 h0" keyTimes="0;0.5;0.8;1" />
+    </path>
+    <path id="p5" d="m110,228 h0">
+      <animate id="a5" attributeName="d" begin="a4.end" dur="4s" fill="remove"
+        values="m110,228 h0 ; m110,228 h450 ; m110,228 h450 ; m110,228 h0" keyTimes="0;0.5;0.8;1" />
+    </path>
   </defs>
 
   <g class="text type">
