@@ -48,7 +48,7 @@
   <!-- Animated Typing Paths -->
   <defs>
     <path id="p0" d="m110,228 h0">
-      <animate id="a0" attributeName="d" begin="0s;a3.end" dur="4s" fill="remove"
+      <animate id="a0" attributeName="d" begin="0s;a5.end" dur="4s" fill="remove"
         values="m110,228 h0 ; m110,228 h450 ; m110,228 h450 ; m110,228 h0" keyTimes="0;0.5;0.8;1" />
     </path>
     <path id="p1" d="m110,228 h0">
