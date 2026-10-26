@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="208" viewBox="0 0 830 208" role="img" aria-labelledby="title desc">
+  <title id="title">Kerem Yiğit — full-stack developer</title>
+  <desc id="desc">An ivory masthead with serif lettering and a small burnt-orange rule.</desc>
+  <rect x="0.5" y="0.5" width="829" height="207" rx="14" fill="#F5F2EA" stroke="#E1DCCF"/>
+  <path d="M44 38H84" stroke="#C2410C" stroke-width="2"/>
+  <text x="40" y="115" font-family="Georgia,'Times New Roman',serif" font-size="76" letter-spacing="-2" fill="#1B1A17">Kerem Yiğit</text>
+  <text x="44" y="163" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" fill="#656057">Full-stack developer</text>
+</svg>
